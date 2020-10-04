@@ -9,6 +9,19 @@ text, putting the scanned images and extracted texts into one PDF with some
 (previously collected) meta information and finally organizing all the files 
 within a simple tree structure onto your file system.
 
+[![MIT License][LICENSE-BADGE]](LICENSE)
+![Linux][LINUX-BADGE]
+![Python 3.x][PYTHON-BADGE]
+![Bash 4][Bash-BADGE]
+
+
+[LICENSE-BADGE]: https://img.shields.io/badge/license-MIT-blue.svg
+[LINUX-BADGE]: https://img.shields.io/badge/Linux-blue.svg
+[PYTHON-BADGE]: https://img.shields.io/badge/Python-3.x-blue.svg
+[Bash-BADGE]: https://img.shields.io/badge/Bash-4-blue.svg
+
+
+
 **PART TWO** will handle with the genaration of a static Webpage as a simple,
 yet powerful document search and retrieval system to simply get and view your 
 documents as PDF within your web browser.
